@@ -2131,7 +2131,7 @@ pre .javascript .function {
   box-sizing: border-box;
   width: 100%;
   overflow: hidden;
-  background: url("/images/bg.svg") center center/cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/shuimoye/tupian@main/66177cb2f568cee5a9324cc87f95c464.2iyj9lfcht60.webp") center center/cover no-repeat;
   background-position-y: 70px;
 }
 @media (max-width: 780px) {
